@@ -1,0 +1,59 @@
+.card{
+    border: 2px solid black;
+    width: 400px;
+    height: 600px;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    font-family: Book Antiqua, Palatino, Palatino Linotype, Palatino LT STD, Georgia,serif; ;
+}
+
+img{
+    width: 100%;
+    border-radius: 25px;
+}
+
+.link{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    text-decoration: wavy underline;
+    text-align: center;
+}
+
+h4 {
+    text-align: right;
+    color: #3c787e;
+    font-size: 24px;
+}
+
+#pets {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2{
+    color: #d56f3e;
+}
+
+span {
+    color: #9d6f24;
+}
+
+@media(max-width: 540px){
+    #pets{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+p{
+    text-align: center;
+}
