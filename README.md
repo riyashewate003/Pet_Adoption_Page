@@ -25,10 +25,10 @@ The layout adapts for screen widths less than 540px using a media query. Cards w
 
 pet-adoption-page/
 │
-├── cat.jpg # Image of Tom
-├── dog.jpg # Image of Jerry
-├── index.html # Main HTML file
-└── style.css # External CSS file
+├── - cat.jpg # Image of Tom
+├── - dog.jpg # Image of Jerry
+├── - index.html # Main HTML file
+└── - style.css # External CSS file
 
 ## 🧠 What I Learned
 
