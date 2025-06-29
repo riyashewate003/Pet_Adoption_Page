@@ -21,4 +21,21 @@ A beginner-friendly HTML & CSS project that simulates a simple and responsive pe
 
 The layout adapts for screen widths less than 540px using a media query. Cards wrap properly for mobile view to ensure accessibility and user experience.
 
+## 📂 Project Structure
 
+pet-adoption-page/
+│
+├── cat.jpg # Image of Tom
+├── dog.jpg # Image of Jerry
+├── index.html # Main HTML file
+└── style.css # External CSS file
+
+## 🧠 What I Learned
+
+- Creating and styling card components
+- Using `flexbox` for horizontal layouts
+- Implementing basic mobile responsiveness
+- Writing semantic HTML and readable CSS
+
+Made with ❤️ by Riya  
+Let's give these pets a second chance at life 🐶🐱
